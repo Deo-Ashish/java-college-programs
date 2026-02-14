@@ -1,0 +1,26 @@
+Program: B.Tech
+Semester: Fourth
+Course: Object Oriented Programming with Java Lab
+
+List of Experiment:
+1. Program to find square root of given number
+2. Program to enter principal, rate & time and find simple interest
+3. Program to find whether a year is leap year or not
+4. Program to enter a number from keyboard and find out Fibonacci series
+5. Program to enter a number from keyboard and find out factorial of the number
+6. Program to enter a number from keyboard and check whether the number is palindrome ornot
+7. Program to enter a number from keyboard and print the prime numbers present within it
+8. Program to enter a number from keyboard and determine whether it is Armstrong or not.
+9. Program to demonstrate switch statement
+10. To swap two numbers without using third variable
+11. To find the greatest among 3 numbers
+12. Program to sort an array in an ascending order
+13. Program to find out the sum and average of the elements present in an array
+14. Program to add the elements of two different two dimensional array.
+15. Program to find out the biggest and smallest number from a matrix.
+16. Program to implement the concept of final class
+17. Program to o implement the concept of interface
+18. Program to reverse a specified string.
+19. Write a program in java to show the user defined package.
+20. Program to create an applet
+21. Program to implement the concept of thread
