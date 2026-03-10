@@ -23,9 +23,8 @@ public class IterativeMergeSort {
     }
 
     private static void merge(int[] arr, int[] temp, int left, int mid, int right) {
-        int i = left;      // left subarray pointer
-        int j = mid + 1;   // right subarray pointer
-        int k = left;      // temp array pointer
+        int i = left, j = mid + 1; // right subarray pointer
+        int k = left; // temp array pointer
 
         while (i <= mid && j <= right) {
             if (arr[i] <= arr[j]) {
@@ -50,13 +49,10 @@ public class IterativeMergeSort {
     }
 
     public static void main(String[] args) {
-        int[] arr = {38, 27, 43, 3, 9, 82, 10};
+        int[] arr = { 38, 27, 43, 3, 9, 82, 10 };
 
         mergeSort(arr);
 
         System.out.println(Arrays.toString(arr));
     }
 }
-
-
-
